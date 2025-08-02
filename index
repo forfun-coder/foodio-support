@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Foodio Support & Privacy</title>
+</head>
+<body style="font-family: sans-serif; max-width: 600px; margin: 40px auto; line-height: 1.6;">
+  <h1>Foodio Support</h1>
+  <p>If you have any questions or feedback, please contact us at: <strong>youremail@example.com</strong></p>
+
+  <h2>Privacy Policy</h2>
+  <p>This app does not collect, store, or share any personal data. All information entered into the app stays on your device and is not transmitted to any external servers.</p>
+
+  <p><em>Effective Date: August 1, 2025</em></p>
+</body>
+</html>
